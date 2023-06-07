@@ -23,7 +23,7 @@ const LandingPage = () => {
 
   return (
    
-    <div className={'App ${theme}'}>
+    <div className='landing__container'>
    
       <div className='first__part'>
       
