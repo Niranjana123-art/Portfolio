@@ -1,8 +1,9 @@
 import React , {useState, useEffect} from 'react';
 import "./landingpage.css";
 import pic1 from "../assets/pic1.jpg";
-import {BsSun} from 'react-icons/bs'
-import {BsMoonStars} from 'react-icons/bs'
+import {BsSun} from 'react-icons/bs';
+import {BsMoonStars} from 'react-icons/bs';
+
 
 const LandingPage = () => {
   const [theme, setTheme] = useState('light');
@@ -67,10 +68,15 @@ const LandingPage = () => {
            <h3> I am also involved in the design aspect of projects. I take great pride in creating visually appealing and user-friendly pages that contribute to a seamless user experience. Through my designs, I strive to strike a balance between aesthetics and functionality, ensuring that the end-users have a delightful and intuitive interaction with the products I develop.</h3>
            <ul>
                <li><a href='https://www.figma.com/file/My52R6toL9NMzKP62U3r99/Untitled?node-id=0%3A1&t=BS1juPQUWFGm2F8N-1'>Roots</a></li> 
+               <li><a href='https://aiworksquad.com/'>Aiworksquad</a></li>
+               <li><a href=' https://www.figma.com/proto/WZ8s2OKO3bmFW3ymIXdTeS/Untitled?type=design&node-id=56-2&t=ltY9kbI4PON2OmDj-0&scaling=min-zoom&page-id=0%3A1'>Shopify</a></li>
+               <li><a href=' https://www.figma.com/proto/RHqVF3tfGY7AxrL72jWOJc/Untitled?type=design&node-id=89-395&t=r7opwVbUklYUamfZ-0&scaling=min-zoom&page-id=0%3A1'>NearHat</a></li>
                 <li><a href='https://www.figma.com/file/MCifAsCqCuQwKCETQ3FviG/Untitled?type=design&node-id=12%3A3&t=rB92OvVYF9rcH1ZP-1'>YourHR</a></li>
                 <li><a href='https://www.figma.com/file/rC9EHmyaJBaQu4o82kNbub/Untitled?type=design&node-id=0%3A1&t=5I2tTf7bNH08hrkv-1'>Face authentication for pay-apps</a></li>
                 <li><a href='https://www.figma.com/file/USZtzZ9wE5gY6XL205BpRO/CV-Analysis-(Copy)?type=design&node-id=0%3A1&t=KlCAmPbi8VPhCEuW-1'>Job recruiter</a></li>
                 <li><a href='https://www.figma.com/file/KheEvJRD5ysGLG3Eu19lRG/Untitled?type=design&node-id=0%3A1&t=7brl5WVaxxMRzus7-1'>MLA schedule-app</a></li>
+               
+
            </ul>
 
            <h2>Game Development</h2>
